@@ -12,8 +12,7 @@ This project demonstrates the application of data science and AI techniques to m
 * **Libraries:** Nilearn, Nibabel, NumPy, Pandas, Matplotlib
 * **Environment:** Google Colab / Jupyter Notebook
 * **Data Format:** NIfTI (.nii.gz)
-##  Sample Results
-*Example: Results showing successful brain extraction and tissue segmentation.*
+
 ##  How to Use
 1. Open the `.ipynb` file in Google Colab.
 2. Run the cells to download sample data from the OASIS dataset.
